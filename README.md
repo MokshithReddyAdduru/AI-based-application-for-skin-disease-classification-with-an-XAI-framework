@@ -27,8 +27,7 @@ This project was built by learning and applying AI and development concepts to c
 
 ## 📸 Screenshots
 
-### App Interface
-![App Screenshot](Frontend/assets/Dashboard.jpeg)
-
-## Classification and XAI output result
-![App Screenshot](Frontend/assets/Classification_and_Xai_results.jpeg)
+<p align="center">
+  <img src="Frontend/assets/Dashboard.jpeg" width="300"/>
+  <img src="Frontend/assets/Classification_and_Xai_results.jpeg" width="300"/>
+</p>
