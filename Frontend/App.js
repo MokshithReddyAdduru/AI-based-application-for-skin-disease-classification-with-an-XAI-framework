@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { StyleSheet, Text, View, Image, ActivityIndicator, Alert, ScrollView, TouchableOpacity } from 'react-native';
 import * as ImagePicker from 'expo-image-picker';
 
-// ⚠️ UPDATE THIS WITH YOUR CURRENT NGROK URL
+
 const API_URL = 'https://kelley-overpolitic-pactionally.ngrok-free.dev/predict'; 
 
 export default function App() {
