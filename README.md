@@ -28,5 +28,5 @@ This project was built by learning and applying AI and development concepts to c
 ## 📸 Screenshots
 
 ### App Interface
-![App Screenshot](assets/Dashboard.jpeg)
+![App Screenshot](Frontend/assets/Dashboard.jpeg)
 
