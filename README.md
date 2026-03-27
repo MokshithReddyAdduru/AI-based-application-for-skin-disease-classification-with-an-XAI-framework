@@ -24,3 +24,9 @@ Model and dataset files are not included due to size limitations.
 
 ## 💡 About
 This project was built by learning and applying AI and development concepts to create a real-world application.
+
+## 📸 Screenshots
+
+### App Interface
+![App Screenshot](assets/Dashboard.png)
+
